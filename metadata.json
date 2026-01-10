@@ -1,0 +1,9 @@
+
+{
+  "name": "Redistribute - Food Waste Network",
+  "description": "A high-performance platform connecting restaurants, shelters, and drivers to redistribute surplus food efficiently with real-time tracking and tax deduction estimates.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
